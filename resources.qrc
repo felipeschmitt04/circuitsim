@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/and.png</file>
+        <file>images/not.png</file>
+        <file>images/or.png</file>
+        <file>images/conexao.png</file>
+        <file>images/input.png</file>
+        <file>images/interacao.png</file>
+        <file>images/output.png</file>
+        <file>images/remover.png</file>
+        <file>images/selecao.png</file>
+        <file>images/and_icon.png</file>
+        <file>images/not_icon.png</file>
+        <file>images/or_icon.png</file>
+        <file>images/logo.png</file>
+        <file>images/foto.jpg</file>
+    </qresource>
+</RCC>
